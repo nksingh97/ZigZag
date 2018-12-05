@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+.container {
+	width:1024px;
+	margin: 0px auto;
+}
+
+
+@font-face {
+    font-family: "futura_light_italic_font";
+    src: url("../fonts/futura_light_italic_font.ttf");
+}
+
+li {
+	display: inline;
+	border-style: solid;
+    border-width: 1px;
+	padding: 5px 13px 5px 13px;
+	margin-right: 85px;
+	margin-left: 85px;
+}
+
+header {
+	width: 300px;
+	margin: 0px auto 0px auto;
+}
+
+.logo {
+	width: 300px;
+	margin: 0px auto 0px auto;
+}
+
+
+nav {
+	width:100%;
+	margin: 5px auto 25px auto;
+}
+
+
+.navlinks {
+    font-family: "futura_light_italic_font";
+	text-decoration: none;
+	color:#000;
+	font-size: 10pt;
+	
+}
+
+p {font-family: "futura_light_italic_font";
+	text-decoration: none;
+	color:grey;
+	font-size: 9pt;
+	text-align: center;
+	margin-bottom: 25px;}
+
